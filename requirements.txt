@@ -1,0 +1,8 @@
+pypdf # For PDF processing
+langchain # For LLMs, embeddings, vector stores, and more
+chromadb # Vector storage
+pytest # For testing`
+langchain-community # For Ollama and Chroma integrations
+langchain-ollama # Ollama integration for LLM and embeddings
+langchain-chroma # Chroma vector store
+streamlit # UI framework
